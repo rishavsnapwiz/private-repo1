@@ -7,7 +7,7 @@ import { withBasename } from "../utils/params";
 export default class Report extends React.Component {
 
     constructor(props) {
-        super(props);
+        super(props);asdfasd
         this.state = {
             username: '',
             showCreateModal: false,
